@@ -116,80 +116,15 @@ main {
     display: none;
 }
 
-
-
-
-
-
-
-
-
-/* 
-
-.box1 {
-    background-color: white;
-    position: absolute;
-    width: 150px;
-    height: 200px;
-    top: 400px;
-    left: 250px;
-    border-radius: 10px;
-    text-align: center;
-    padding-top: 40px;
-}
-.imgdes {
-    width: 100px;
-    margin-top: 10px;
-}
-.linkdes {
-    margin-top: 60px;
-    background-color: white;
-    padding-right: 10px;
+.img{
+    width: 100px; align-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 65px;
 }
 
 
 
-.box2 {
-    background-color: white;
-    position: absolute;
-    width: 150px;
-    height: 200px;
-    top: 400px;
-    left: 575px;
-    border-radius: 10px;
-    text-align: center;
-    padding-top: 40px;
-}
-.imggol {
-    width: 80px;
-    margin-top: 20px;
-
-}
-.linkgol {
-    margin-top: 60px;
-    background-color: white;
-    padding-right: 10px;
-}
 
 
-
-.box3 {
-    background-color: white;
-    position: absolute;
-    width: 150px;
-    height: 200px;
-    top: 400px;
-    left: 900px;
-    border-radius: 10px;
-    text-align: center;
-    padding-top: 40px;
-}
-.imgrul {
-    width: 100px;
-    margin-top: 3   px;
-}
-.linkrul {
-    margin-top: 60px;
-    background-color: white;
-    padding-right: 10px;
-} */
