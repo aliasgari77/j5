@@ -31,12 +31,12 @@ h1 {
 }
 
 body {
-    /* background: white; */
+
     display: flex;
     justify-content: center;
-    /* align-items: center; */
+
     flex-direction: column;
-    /* height: 100vh; */
+
     line-height: 1.8;
 }
 main {
@@ -117,18 +117,3 @@ main {
     display: none;
 }
 
-<<<<<<< Updated upstream:j5.css
-.img{
-    width: 100px; align-content: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 65px;
-}
-
-
-
-
-
-=======
->>>>>>> Stashed changes:description.css

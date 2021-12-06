@@ -15,10 +15,6 @@
     flex-flow: row-wrap;
     justify-content: space-evenly;
     justify-content: space-around; padding: 10px; margin: 20px;
-<<<<<<< Updated upstream
-=======
-    font-size: 20px;
->>>>>>> Stashed changes
     }
     li a {
         color: black;
@@ -26,7 +22,6 @@
     
     .text {
         border-style: solid; color: black; border-radius: 10px;
-<<<<<<< Updated upstream
         border-width: 1px; margin: 2px 70px 10px 70px; padding: 20px; line-height: 23px; 
     }
      p{
@@ -38,22 +33,6 @@
         display: flex;
         justify-content: center;
         flex-direction: column;
-=======
-        border-width: 1px; margin: 30px 70px 10px 70px; padding: 20px; line-height: 23px; 
-    }
-    
-    h1 {
-        line-height: 50px;
-    }
-    
-    body {
-        /* background: white; */
-        display: flex;
-        justify-content: center;
-        /* align-items: center; */
-        flex-direction: column;
-        /* height: 100vh; */
->>>>>>> Stashed changes
         line-height: 1.8;
     }
     main {
@@ -67,24 +46,15 @@
     .card-premium{
         margin: 0 2rem 1rem 0;
         padding: 0 0 0.5rem 0;
-<<<<<<< Updated upstream
         width: 13rem;
         background: rgb(255, 255, 255);
-=======
-        width: 19rem;
-        background: white;
->>>>>>> Stashed changes
         color: #444;
         text-align: center;
         border-radius: 1rem;
         box-shadow: 0.5rem 0.5rem 1rem rgba(51, 51, 51, 0.2);
         overflow: hidden;
         transition: all 0.1ms ease-in-out;
-<<<<<<< Updated upstream
     }
-=======
-            }
->>>>>>> Stashed changes
     .card-basic:hover
     .card-standard:hover
     .card-premium:hover{
@@ -96,7 +66,6 @@
         font-weight: 700;
         font-size: 0.8rem;
         padding: 1rem 0;
-<<<<<<< Updated upstream
         color: rgb(255, 255, 255);
         clip-path: polygon(0 0,100% 0%,100% 85%,0% 100%);
     }
@@ -108,12 +77,6 @@
     .btn-standard{
         background: linear-gradient(135deg,#d24fe4 , #cf087c);
     }
-=======
-        color: #fff;
-        clip-path: polygon(0 0,100% 0%,100% 85%,0% 100%);
-    }
-
->>>>>>> Stashed changes
     .header-premium,
     .btn-premium{
         background: linear-gradient(135deg,yellow,rgb(255, 115, 0));
@@ -150,7 +113,6 @@
         display: none;
     }
     
-<<<<<<< Updated upstream
     .img{
         width: 100px; align-content: center;
         display: flex;
@@ -166,6 +128,4 @@
     
     
     
-=======
->>>>>>> Stashed changes
     

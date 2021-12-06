@@ -15,15 +15,10 @@
     flex-flow: row-wrap;
     justify-content: space-evenly;
     justify-content: space-around; padding: 10px; margin: 20px;
-<<<<<<< Updated upstream
-=======
-    font-size: 20px;
->>>>>>> Stashed changes
     }
     li a {
         color: black;
     }
-<<<<<<< Updated upstream
     h1{
         font-family: 'Times New Roman', Times, serif;
         font-size: 1rem;
@@ -42,18 +37,6 @@
         display: flex;
         justify-content: center;
         flex-direction: column;
-=======
-    
- 
-    
-    body {
-        /* background: white; */
-        display: flex;
-        justify-content: center;
-        /* align-items: center; */
-        flex-direction: column;
-        /* height: 100vh; */
->>>>>>> Stashed changes
         line-height: 1.8;
     }
     main {
@@ -67,13 +50,8 @@
     .card-premium{
         margin: 0 2rem 1rem 0;
         padding: 0 0 0.5rem 0;
-<<<<<<< Updated upstream
         width: 13rem;
         background: rgb(255, 255, 255);
-=======
-        width: 15rem;
-        background: white;
->>>>>>> Stashed changes
         color: #444;
         text-align: center;
         border-radius: 1rem;
@@ -92,7 +70,6 @@
         font-weight: 700;
         font-size: 0.8rem;
         padding: 1rem 0;
-<<<<<<< Updated upstream
         color: rgb(255, 255, 255);
         clip-path: polygon(0 0,100% 0%,100% 85%,0% 100%);
     }
@@ -102,23 +79,6 @@
         background: linear-gradient(135deg,#fc0404 , #0847cf);
     }
 
-=======
-        color: #fff;
-        clip-path: polygon(0 0,100% 0%,100% 85%,0% 100%);
-    }
-    .header-basic{
-        background: linear-gradient(135deg,rgb(0,119,238),#86c766);
-    }
-    .header-standard{
-        background: linear-gradient(135deg,#d24fe4 , #cf087c);
-    }
-    .header-premium{
-        background: linear-gradient(135deg,yellow,rgb(255, 115, 0));
-    }
-    .header-last{
-        background: linear-gradient(135deg,rgb(255, 0, 212),rgb(255, 0, 0));
-    }
->>>>>>> Stashed changes
     .card-body{
         padding: 0.5rem 0;
     }
@@ -151,7 +111,6 @@
         display: none;
     }
     
-<<<<<<< Updated upstream
     .img{
         width: 100px; align-content: center;
         display: flex;
@@ -216,43 +175,3 @@
         width: 90%; } }
     
     
-=======
-    table {
-        position: absolute;
-        left: 50%;
-        top: 90%;
-        transform: translate(-50%,-50%);
-        border-collapse: collapse;
-        width: 800px;
-        height: 200px;
-        border: 1px solid #bdc3c7;
-        box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2), -1px -1px 8px rgba(0, 0, 0, 0.2);
-       }
-       tr{
-           transition: all .2s ease-in; 
-           cursor: pointer;
-       }
-       th,
-       td {
-           padding: 12px;
-           text-align: left;
-           border-bottom: 1px solid #ddd;
-       }
-       #header {
-           background-color: #9416a0;
-           background: linear-gradient(135deg,rgb(255, 0, 212),rgb(255, 0, 0));
-           color: #fff;
-       }
-
-       tr:hover {
-           background-color: #f5f5f5;
-           transform: scale(1.02);
-           box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2), -1px -1px 8px rgba(0, 0, 0, 0.2);
-       }
-
-       @media only screen and (max-width: 768px) {
-           table {
-               width: 90%;
-           }
-       }
->>>>>>> Stashed changes
